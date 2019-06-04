@@ -12,6 +12,7 @@
     "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
   ],
   "devDependencies": {
+    "awesome-lint": "^0.10.0",
     "remark-cli": "^6.0.0",
     "remark-preset-wooorm": "^5.0.0"
   },
