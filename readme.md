@@ -54,8 +54,8 @@
 
 * [opensource.guide](https://github.com/github/opensource.guide) - Community guides for open source creators.
 * [debugger.html](https://github.com/devtools-html/debugger.html) - [Mozilla](https://www.mozilla.org) Firefox debugger.
-* [readability](https://github.com/wooorm/readability) - Visualise readability.
-* [write-music](https://github.com/wooorm/write-music) - Visualise sentence length.
+* [readability](https://github.com/wooorm/readability) - Visualize readability.
+* [write-music](https://github.com/wooorm/write-music) - Visualize sentence length.
 
 ## Related lists
 
