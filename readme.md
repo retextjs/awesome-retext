@@ -21,9 +21,9 @@
 ## Official
 
 * [retext](https://github.com/retextjs/retext) - Repository.
-* [retext-english](https://github.com/retextjs/retext/tree/master/packages/retext-english) - English parser.
-* [retext-latin](https://github.com/retextjs/retext/tree/master/packages/retext-latin) - Generic Latin-script parser.
-* [retext-stringify](https://github.com/retextjs/retext/tree/master/packages/retext-stringify) - Prose generator.
+* [retext-english](https://github.com/retextjs/retext/tree/HEAD/packages/retext-english) - English parser.
+* [retext-latin](https://github.com/retextjs/retext/tree/HEAD/packages/retext-latin) - Generic Latin-script parser.
+* [retext-stringify](https://github.com/retextjs/retext/tree/HEAD/packages/retext-stringify) - Prose generator.
 * [nlcst](https://github.com/syntax-tree/nlcst) - Concrete syntax tree specification.
 * [unified](https://github.com/unifiedjs/unified) - Ecosystem.
 
@@ -40,7 +40,7 @@
 * [retext-simplify](https://github.com/retextjs/retext-simplify) - Check phrases for simpler alternatives.
 * [retext-spell](https://github.com/retextjs/retext-spell) - Check spelling.
 
-[Find more plugins »](https://github.com/retextjs/retext/blob/master/doc/plugins.md#list-of-plugins)
+[Find more plugins »](https://github.com/retextjs/retext/blob/HEAD/doc/plugins.md#list-of-plugins)
 
 ## Built on retext
 
