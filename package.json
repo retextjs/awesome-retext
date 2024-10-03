@@ -1,27 +1,27 @@
 {
-  "name": "awesome-retext",
-  "private": true,
-  "version": "0.0.0",
-  "description": "Curated list of awesome retext resources",
-  "license": "CC-BY-4.0",
-  "keywords": [],
-  "repository": "retextjs/awesome-retext",
-  "bugs": "https://github.com/retextjs/awesome-retext/issues",
   "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
+  "bugs": "https://github.com/retextjs/awesome-retext/issues",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
   ],
+  "description": "Curated list of awesome retext resources",
   "devDependencies": {
     "remark-cli": "^12.0.0",
     "remark-preset-wooorm": "^10.0.0"
   },
-  "scripts": {
-    "format": "remark . -qo",
-    "test": "npm run format"
-  },
+  "keywords": [],
+  "license": "CC-BY-4.0",
+  "name": "awesome-retext",
+  "private": true,
   "remarkConfig": {
     "plugins": [
       "remark-preset-wooorm"
     ]
-  }
+  },
+  "repository": "retextjs/awesome-retext",
+  "scripts": {
+    "format": "remark --output --quiet -- .",
+    "test": "npm run format"
+  },
+  "version": "0.0.0"
 }
