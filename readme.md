@@ -2,12 +2,13 @@
 
 # awesome retext [![awesome][awesome-badge]][awesome]
 
-[<img src="https://raw.githubusercontent.com/retextjs/retext/976354b/logo.svg?sanitize=true" align="right" alt width="200">](https://github.com/retextjs/retext)
+[<img align="right" alt src="https://raw.githubusercontent.com/retextjs/retext/73b5852/logo-square.svg?sanitize=true" width="200">](https://github.com/retextjs/retext)
 
 > A curated list of awesome [**retext**][retext] resources.
 
-**retext** is a natural language processor, powered by plugins, part of the
-[unified][] collective.
+**retext** is a natural language processor,
+powered by plugins,
+part of the [unified][] collective.
 
 ## Contents
 
@@ -71,20 +72,20 @@
 
 <!-- Definitions. -->
 
-[license]: https://creativecommons.org/licenses/by/4.0/
-
-[license-badge]: https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg
-
 [author]: https://wooorm.com
 
 [awesome-badge]: https://awesome.re/badge.svg
 
 [awesome]: https://awesome.re
 
-[unified]: https://github.com/unifiedjs/unified
+[license-badge]: https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg
+
+[license]: https://creativecommons.org/licenses/by/4.0/
 
 [rehype]: https://github.com/rehypejs/rehype
 
 [remark]: https://github.com/remarkjs/remark
 
 [retext]: https://github.com/retextjs/retext
+
+[unified]: https://github.com/unifiedjs/unified
